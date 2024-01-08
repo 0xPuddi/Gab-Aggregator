@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+cachePuppeteer
+.env
+bun.lockb
+Makefile
+db/gab/*.json
+cache
